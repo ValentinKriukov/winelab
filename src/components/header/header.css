@@ -1,0 +1,14 @@
+
+.headerPage{
+    height: 900px;
+    background-image: url(../../img/bgc.jpg);
+}
+
+.header{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 405px 0 405px;
+    font-size: 13px;
+}
+
