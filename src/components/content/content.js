@@ -4,8 +4,8 @@ import './content.css';
 const Content=()=>{
     return(
         <div className='content'> 
-            <h1>Лучший вкус, это вкус долголетнего вина</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            <h2 className="title">Лучший вкус, это вкус долголетнего вина</h2>
+            <p className="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
                 Feugiat enim tortor in hac id imperdiet adipiscing. 
                 Pellentesque nisi, mi sit non sit sed fermentum. 
                 Felis adipiscing morbi sodales ac. M

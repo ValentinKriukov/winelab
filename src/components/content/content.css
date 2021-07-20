@@ -1,10 +1,18 @@
 .content{
     font-family: 'Playfair Display', serif;
     color:#FFFFFF;
-    height: 856px;
+    height: 100%;
     background-color: #282828;
-left: 592px;
-top: 1060px;
-border-radius: nullpx;
+    text-align: center;
 
+}
+
+.title{
+    font-size: 36px;
+    padding: 160px 540px 0 540px;
+}
+
+.text{
+    font-size: 16px;
+    padding: 80px 540px 0 540px;
 }

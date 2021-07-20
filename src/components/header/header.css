@@ -5,10 +5,13 @@
 }
 
 .header{
+    
     color: #FFFFFF;
     display: flex;
     justify-content: space-between;
-    padding: 30px 405px 0 405px;
+    padding: 20px 0 20px 0 !important;
+    margin: 0 405px;
     font-size: 13px;
+    border-bottom: 1px solid white !important;
 }
 
