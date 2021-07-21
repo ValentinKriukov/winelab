@@ -1,3 +1,3 @@
-import Footer from "./footer";
+import FooterBox from "./footer";
 
-export default Footer;
+export default FooterBox;

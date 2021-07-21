@@ -3,7 +3,7 @@
   font-family: "montserrat",
   sans-serif;
   line-height: 1.6;
-  width: 100%;
+  max-width: 1920px;
   height: 100vh;
 }
   *,
