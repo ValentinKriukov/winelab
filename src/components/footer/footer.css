@@ -1,3 +1,30 @@
 .footer{
-    height: 220px;
+    background-color: #998431;
+    width: 1820px;
+    padding-top: 80px;
+    padding-bottom: 80px;  
+    text-align: center;
+}
+
+.footerBox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 405px 0 405px;
+    color:#FFFFFF;
+    font-size: 14px;
+    border-top: 1px solid #FFFFFF;
+    border-bottom: 1px solid #FFFFFF;
+}
+
+.footerBox>div{
+    flex-basis: 0;
+    flex-grow: 1;
+    align-items: center !important;
+    justify-content: center !important;
+    
+    
+}
+.footerBox > div:not(:last-of-type) {
+    border-right: 1px solid #FFFFFF;
 }

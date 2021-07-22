@@ -1,7 +1,7 @@
 .content{
     font-family: 'Playfair Display', serif;
     color:#FFFFFF;
-    height: 856px;
+    height: 900px;
     background-color: #282828;
     text-align: center;
     padding: 100px 0 0 0 ;
@@ -38,6 +38,6 @@
 .contentBox{
     position: relative;
     display: inline-block;
-    width: 1100px;
+    width: 1010px;
     border:1px solid #C4C4C4;
 }
